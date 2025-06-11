@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-Desarrolladora FUllstack
+Desarrolladora Fullstack
 </h1>
 
 <p align="center">
